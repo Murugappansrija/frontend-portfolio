@@ -1,0 +1,53 @@
+import pro2 from "../assets/pro2.png"
+import pro3 from "../assets/webscrapper.png"
+
+import pro4 from "../assets/pro4.png"
+
+import pro5 from "../assets/pro3.png"
+
+
+
+const ProjectCardData = [
+    {
+        imgsrc : pro2,
+        title : "Social Media App",
+        skills: "React js, Expressjs, MongoDB",
+        text : "It's a simple social media app, with many functionalities  user can post,delete,edit a posts.user can add & remove friends.",
+        view :  "https://vocal-rolypoly-f90348.netlify.app/",
+        source : "https://github.com/Murugappansrija/connecting-point-fe.git"
+
+
+    },
+    {
+        imgsrc : pro3,
+        title : "Web Scrapper",
+        skills: "React js, Expressjs, MongoDB",
+        text : "The web scraper extracts data from Amazon and Flipkart, offering valuable insights and competitive analysis.",
+        view :  "https://transcendent-cocada-05e41d.netlify.app/",
+        source : "https://github.com/Murugappansrija/wesfn.git"
+
+
+    },
+    {
+        imgsrc : pro4,
+        title : "Notes app",
+        skills: "React js, Expressjs, MongoDB",
+        text : " With this to-do app, users can efficiently manage their daily tasks, create lists, update, and delete tasks.",
+        view :  "https://main--lovely-salmiakki-5d5d53.netlify.app/",
+        
+        source : "https://github.com/Murugappansrija/frontend-notes.git"
+
+
+    },
+    {
+        imgsrc : pro5,
+        title : " Ecommerce App",
+        skills: "React js",
+        text : "Front end ecommerce application",
+        view :  "https://stellar-cupcake-61fe72.netlify.app/",
+        source : "https://github.com/Murugappansrija/client"
+
+       
+    }
+]
+export default  ProjectCardData
