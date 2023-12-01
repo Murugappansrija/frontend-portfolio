@@ -1,7 +1,7 @@
 import pro2 from "../assets/pro2.png"
 import pro3 from "../assets/webscrapper.png"
 
-import pro4 from "../assets/pro4.png"
+import pro4 from "../assets/pro5.png"
 
 import pro5 from "../assets/pro3.png"
 
@@ -30,22 +30,22 @@ const ProjectCardData = [
     },
     {
         imgsrc : pro4,
-        title : "Notes app",
-        skills: "React js, Expressjs, MongoDB",
-        text : " With this to-do app, users can efficiently manage their daily tasks, create lists, update, and delete tasks.",
-        view :  "https://main--lovely-salmiakki-5d5d53.netlify.app/",
+        title : "Sneakers Store",
+        skills: "HTML,CSS,Java Script",
+        text : "It's a sneaker store showing the products of the company",
+        view : "https://frabjous-pony-d5b6a6.netlify.app/",
         
-        source : "https://github.com/Murugappansrija/frontend-notes.git"
+        source : "https://github.com/Murugappansrija/nike-store.git"
 
 
     },
     {
         imgsrc : pro5,
-        title : " Ecommerce App",
+        title : " Ecommerce add to cart",
         skills: "React js",
-        text : "Front end ecommerce application",
+        text : "It's a frontend ecommerce site where users can view products, add to cart, and increase or decrease quantities",
         view :  "https://stellar-cupcake-61fe72.netlify.app/",
-        source : "https://github.com/Murugappansrija/client"
+        source : "https://github.com/Murugappansrija/react-ecommerce-add-to-cart.git"
 
        
     }
